@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Codechef {
+public class PasswordGenerator.  {
 
     // Global strings to be used to randomly generate password components
     private static final String STRING_CHAR = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
